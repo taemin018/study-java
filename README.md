@@ -489,7 +489,6 @@ for문과 while문의 목적
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 --------------------------------------------------------------------------------
-<img width="1000" src="https://github.com/code-hyun/study-java/assets/122762287/262c8411-cce1-4373-bc69-6a9518951303">
 
 
 #### 메소드
@@ -693,7 +692,6 @@ B: 자식 클래스, 하위 클래스, 서브 클래스, 파생 클래스
 	만약 up casting으로 자식 값을 전달받았다면, 자식에서 새롭게 구현한 기능들은 사용할 수 없기 때문에
 	down casting을 통해서 복구하여 사용한다.
 
-<img width="1000" src="https://github.com/code-hyun/study-java/assets/122762287/6ef2552a-c408-4600-b830-2b5d6f86a6f8">
 
 #### instanceof(객체 간 타입 비교)
 	a instanceof A : 조건식
@@ -1031,7 +1029,6 @@ B: 자식 클래스, 하위 클래스, 서브 클래스, 파생 클래스
 	전달한 경로에 있는 파일의 정보를 담는 타입.
 	디렉터리 생성, 해당 경로의 전체 파일 목록, 파일 삭제 등
 	
-<img width="1000" src="https://github.com/code-hyun/study-java/assets/122762287/c7db3568-b70b-4f32-8507-ce627208b461">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
